@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>TunBar</title>
+  <desc>Two compact opposing forwarding arrows with centered side dots, matching the MenuBar icon family.</desc>
+  <rect x="100" y="100" width="824" height="824" rx="184" fill="#fff"/>
+  <rect x="184" y="392" width="656" height="240" rx="64" fill="#1d1d1f"/>
+  <circle cx="308" cy="512" r="22" fill="#fff" opacity=".3"/>
+  <path d="M456 476H568M544 452l24 24-24 24M568 548H456M480 524l-24 24 24 24" fill="none" stroke="#fff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="716" cy="512" r="24" fill="#fff"/>
+</svg>
